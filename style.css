@@ -1,0 +1,29 @@
+.article{
+	background-color: lightgray;
+	padding: 40px;
+	border-radius: 6px;
+}
+h1{
+	font-weight: bold;
+}
+ul, a{
+	background-color: #f8f8ff;
+}
+.active a{
+	background-color: black;
+}
+.form-inline{
+	margin-left: 630px;
+	top: 10px;
+}
+.1{
+	background-color: lightgray;
+}
+.foot{
+	margin-top: 70px;
+	margin-left: 85px;
+	margin-bottom: 100px;
+}
+.input{
+	margin-top: 7px;
+}
