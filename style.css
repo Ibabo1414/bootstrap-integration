@@ -1,4 +1,34 @@
+body{
+	background-attachment: fixed;
+}
 
 ul, a{
 	background-color: #000;
+}
+
+div
+.form-inline{
+	margin-top: 10px;
+	margin-left:  55%;
+}
+.row{
+	margin-left: 1%;
+	text-align: justify;
+
+}
+h2{
+	font-weight: bold;
+}
+
+p > img{
+	width: 10px;
+	height: 10px;
+	margin-left: 1%;
+}
+
+footer{
+	margin-top: 20px;
+}
+.copy {
+	margin-left: 5px;
 }
